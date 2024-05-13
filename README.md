@@ -1,33 +1,6 @@
-# CRISP--Content-based-Rapid-Image-Seach-using-Parallel-Computing
+# CBIR--Content-based-Image-Retrieval-using-Parallel-Computing
 
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/Defcon27/Rapid-Image-Search-using-Parallel-Computing?label=Last%20commit&color=green&logo=git&logoColor=white&style=flat)](https://github.com/Defcon27/Data-Analysis-of-Indian-Automobile-dataset-using-Machine-Learning-in-R)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Defcon27/Rapid-Image-Search-using-Parallel-Computing?label=Code%20size&logo=python&logoColor=white&style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/Defcon27/Rapid-Image-Search-using-Parallel-Computing?label=Repo%20size&color=red&logo=github&logoColor=white&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/Defcon27/Rapid-Image-Search-using-Parallel-Computing?label=Stars&logo=github&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/Defcon27/Rapid-Image-Search-using-Parallel-Computing?label=Issues&color=yellow&logo=github&style=flat)
-
-
-#### CRISP is a Content-based Image Search application that is capable of retrieving similar images of query image input from a database of images. This system uses the concept of parallel computing to speed up the search thus reducing the time required to retrieve the images. 
-
-
-<br>
-
-### 🖥️ Technologies and Tools used
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/multithreading-55595c.svg?&style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Opencv-red.svg?&style=for-the-badge&logo=open-source-initiative&logoColor=white)
-![Numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-5c7da2.svg?&style=for-the-badge&logo=power-bi&logoColor=white)
-
-
-#### 📊 Get Presentation Here  
-[![PPT](https://img.shields.io/badge/PRESENTATION-D83B01.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://drive.google.com/file/d/1eh4uGQVOhoDLhHozX9tYEfUoMP-aDaMx/view?usp=sharing)
-
-
-#### 🗃️ Dataset
-[INRIA Holidays dataset](https://lear.inrialpes.fr/~jegou/data.php) has been utilized to demonstrate the image search.
+#### CBIR is a Content-based Image Search application that is capable of retrieving similar images of query image input from a database of images. This system uses the concept of parallel computing to speed up the search thus reducing the time required to retrieve the images. 
 
 <br>
 
@@ -128,4 +101,3 @@ Also, 	as the color images consist of three components therefore the computation
 
 <p><br><p>
  
-[📃 Project Report Here](/Docs/Final%20Report.pdf)
